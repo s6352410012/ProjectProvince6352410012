@@ -1,0 +1,382 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0089)http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-17-55 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="th-th" lang="th-th" dir="ltr" slick-uniqueid="3" class="chrome chrome94"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+   <!--<base href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-17-55">--><base href=".">
+  
+  <meta name="keywords" content="สุโขทัย,อุทยานประวัติศาสตร์สุโขทัย,ลอยกระทง,สงการณ์,thai,thailand,in thailand,thai travel,the sukhothai,agency travel,loy krathong,">
+  <meta name="author" content="Super User">
+  <meta name="description" content="ยินดีต้อนรับ นักท่องเที่ยวเข้ามาเยี่ยมชม และให้ข้อมูลสถานที่ท่องเที่ยวจังหวัดสุโขทัย อดีตเคยเป็นเมืองราชธาณีแห่งแรกของไทย และเทศการงานประเพณีลอยกระทง เผาเทียเล่นไฟ และการละเล่นรดน้ำ สงการณ์,Welcome visitors.
+  Information and attractions in Sukhothai.
+ The city was formerly President of the United States, the first case.
+ Loy Krathong Festival and Festival. Katia burned with fire.
+  Skits and water demand projections.">
+  <meta name="generator" content="Joomla! - Open Source Content Management">
+  <title>ตราประจำจังหวัด</title>
+  <link rel="stylesheet" href="./ตราประจำจังหวัด_files/style.css" type="text/css">
+  <link rel="stylesheet" href="./ตราประจำจังหวัด_files/template.css" type="text/css">
+  <style type="text/css">
+
+		/* Styles for DJ Image Slider with module id 159 */
+		#djslider-loader159 {
+			margin: 0 auto;
+			position: relative;
+			height: 255px; 
+			width: 1018px;
+		}
+		#djslider159 {
+			margin: 0 auto;
+			position: relative;
+			height: 255px; 
+			width: 1018px;
+			display: none;
+		}
+		#slider-container159 {
+			position: absolute;
+			overflow:hidden;
+			left: 0; 
+			top: 0;
+			height: 255px; 
+			width: 1018px;			
+		}
+		#djslider159 ul#slider159 {
+			margin: 0 !important;
+			padding: 0 !important;
+			border: 0 !important;
+		}
+		#djslider159 ul#slider159 li {
+			list-style: none outside !important;
+			float: left;
+			margin: 0 !important;
+			border: 0 !important;
+			padding: 0 0px 0px 0 !important;
+			position: relative;
+			height: 255px;
+			width: 1018px;
+			background: none;
+			overflow: hidden;
+		}
+		#slider159 li img {
+			width: 1018px;
+			height: auto;
+			border: 0 !important;
+			margin: 0 !important;
+		}
+		#slider159 li a img, #slider159 li a:hover img {
+			border: 0 !important;
+		}
+		
+		/* Slide description area */
+		#slider159 .slide-desc {
+			position: absolute;
+			bottom: 0px;
+			left: 0px;
+			width: 1018px;
+		}
+		#slider159 .slide-desc-in {
+			position: relative;
+		}
+		#slider159 .slide-desc-bg {
+			position:absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+		#slider159 .slide-desc-text {
+			position: relative;
+		}
+		#slider159 .slide-desc-text h3 {
+			display: block !important;
+		}
+		
+		/* Navigation buttons */
+		#navigation159 {
+			position: relative;
+			top: 30px; 
+			margin: 0 5px;
+			text-align: center !important;
+		}
+		#prev159 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			left: 0;
+			
+		}
+		#next159 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			right: 0;
+			
+		}
+		#play159, 
+		#pause159 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			left: 47%;
+			
+		}
+		#cust-navigation159 {
+			position: absolute;
+			top: 10px;
+			right: 10px;
+			z-index: 15;
+			
+		}
+		
+  </style>
+  <script src="./ตราประจำจังหวัด_files/sdk.js.download" async="" crossorigin="anonymous"></script><script id="facebook-jssdk" src="./ตราประจำจังหวัด_files/sdk.js(1).download"></script><script src="./ตราประจำจังหวัด_files/mootools-core.js.download" type="text/javascript"></script>
+  <script src="./ตราประจำจังหวัด_files/core.js.download" type="text/javascript"></script>
+  <script src="./ตราประจำจังหวัด_files/caption.js.download" type="text/javascript"></script>
+  <script src="./ตราประจำจังหวัด_files/mootools-more.js.download" type="text/javascript"></script>
+  <script src="./ตราประจำจังหวัด_files/slider.js.download" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+(function($){ window.addEvent('domready',function(){var Slider159 = new DJImageSlider({id: '159', slider_type: 2, slide_size: 1018, visible_slides: 1, show_buttons: 1, show_arrows: 1, preload: 800},{auto: 1, transition: Fx.Transitions.linear, duration: 600, delay: 3600})}); })(document.id);
+  </script>
+
+ <link rel="stylesheet" href="./ตราประจำจังหวัด_files/system.css" type="text/css">
+ <link rel="stylesheet" href="./ตราประจำจังหวัด_files/general.css" type="text/css">
+ <link rel="stylesheet" type="text/css" href="./ตราประจำจังหวัด_files/template(1).css" media="screen">
+ <!--[if IE 6]><link rel="stylesheet" href="/sukhothai/templates/sukhothai22/css/template.ie6.css" type="text/css" media="screen" /><![endif]-->
+ <!--[if IE 7]><link rel="stylesheet" href="/sukhothai/templates/sukhothai22/css/template.ie7.css" type="text/css" media="screen" /><![endif]-->
+
+ <script type="text/javascript">if ('undefined' != typeof jQuery) document._artxJQueryBackup = jQuery;</script>
+ <script type="text/javascript" src="./ตราประจำจังหวัด_files/jquery.js.download"></script>
+ <script type="text/javascript">jQuery.noConflict();</script>
+ <script type="text/javascript" src="./ตราประจำจังหวัด_files/script.js.download"></script>
+ <script type="text/javascript">if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
+
+<!--Marquee-->
+<style type="text/css">[id^=root], [id^=docs], .cc_cursor, body, .ogdlpmhglpejoiomcodnpjnfgcpmgale_default, body, html, input[type="date"], input[type="time"], input[type="datetime-local"], input[type="month"], input::-webkit-contacts-auto-fill-button, input:read-only {cursor: url("data:image/png;base64,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") 3 6 , auto !important; }[role^=button], button, .cc_pointer, [type="search"]::-webkit-search-cancel-button, a, select, [type="search"]::-webkit-search-decoration, .paper-button, .ytp-progress-bar-container, input[type=submit], :link, :visited, a > *, img, button, ::-webkit-scrollbar-button, .ogdlpmhglpejoiomcodnpjnfgcpmgale_pointer, ::-webkit-file-upload-button, button, .ytp-volume-panel, #myogdlpmhglpejoiomcodnpjnfgcpmgale .icon { cursor: url("data:image/png;base64,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") 14 3, auto !important; } * {cursor: url("data:image/png;base64,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") 3 6 , auto }a, button, [type^=button], [role^=button]   { cursor: url("data:image/png;base64,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") 14 3, auto }</style><style data-cursor="cursor"></style><style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:16px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:20px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:14px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:14px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:18px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style></head><body onload="get_cookie(&#39;pop_once&#39;)"><div>
+<marquee scrollamount="2" direction="left" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#06f; padding-top:2px; background-color:  #A4C8F0">
+  <b>• คำขวัญของจังหวัดสุโขทัย</b> "มรดกโลกล้ำเลิศ&nbsp;&nbsp;กำเนิดลายสือไทย&nbsp;&nbsp;เล่นไฟลอยกระทง&nbsp;&nbsp;ดำรงพุทธศาสนา&nbsp;&nbsp;งามตาผ้าตีนจก&nbsp;&nbsp;สังคโลก ทองโบราณ&nbsp;&nbsp;สักการแม่ย่า พ่อขุน&nbsp;&nbsp;รุ่งอรุณแห่งความสุข"&nbsp;&nbsp;<b> "Source of national heritage, the Thai alphabets, the best Loy Krathong celebrations, firm foundation of Buddhism, the fine Teen Jok cloth, ancient chinaware, holy Pho Khun Ramkhamhaeng’s mother, dawn of happiness." &nbsp;&nbsp;<br><br></b></marquee>
+</div>
+<!--End Marquee-->
+
+
+
+
+
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/th_TH/sdk.js#xfbml=1&version=v2.12&appId=234968360394280&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>   
+  
+  
+  
+  <div align="">
+
+<div id="art-page-background-middle-texture">
+<div id="art-page-background-glare-wrapper">
+    <div id="art-page-background-glare"></div>
+</div>
+<div class="art-headerobject"></div>
+<div id="art-main">
+    <div class="cleared reset-box" style=""></div>
+<div class="art-bar art-nav">
+<div class="art-nav-outer">
+<div class="art-nav-wrapper">
+<div class="art-nav-inner">
+    <div class="art-hmenu-extra1"><div class="mod-languages">
+
+	<ul class="lang-inline">
+						<li class="lang-active" dir="ltr">
+			<a href="http://www.sukhothai.go.th/sukhothai/index.php/th/">
+							<img src="./ตราประจำจังหวัด_files/th.gif" alt="Thai(TH)" title="Thai(TH)">						</a>
+			</li>
+				</ul>
+
+</div>
+</div>
+      <div class="art-nav-center">
+  <ul class="art-hmenu"><li class="item-200"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/">หน้าแรก</a></li><li class="item-729 active deeper parent"><a class=" active">เกี่ยวกับจังหวัด</a><ul><li class="item-730"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-15-01" class="">คำขวัญ</a></li><li class="item-731 current active"><a class="active" href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-17-55">ตราประจำจังหวัด</a></li><li class="item-732"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-18-29" class="">ธงประจำจังหวัด</a></li><li class="item-733"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-20-08" class="">ดอกไม้ประจำจังหวัด</a></li><li class="item-734"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-20-47" class="">ต้นไม้ประจำจังหวัด</a></li><li class="item-735"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-21-24" class="">พันธ์ุไม้มงคล</a></li><li class="item-736"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-21-56" class="">ประวัติเมืองสุโขทัย</a></li><li class="item-737"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-22-58">แผนที่แสดงที่ตั้งและอาณาเขต</a></li><li class="item-738"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-23-29">สภาพภูมิศาสตร์</a></li></ul></li><li class="item-699 deeper parent"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-17-55#">ผู้บริหาร</a><ul><li class="item-700"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/124-list-person-sukhothai" target="_blank">คณะผู้บริหารจังหวัด</a></li><li class="item-701"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/864-palace-governor" target="_blank">ทำเนียบผู้ว่าราชการจังหวัด</a></li><li class="item-702"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/865-palace-vicegovernor" target="_blank">ทำเนียบรองผู้ว่าราชการจังหวัด</a></li><li class="item-703"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/843-list-person-provincial" target="_blank">หัวหน้าส่วนราชการส่วนภูมิภาค</a></li><li class="item-706"><a href="http://www.sukhothai.go.th/sukhothai/images/data_sukho/Tel_Sukhothai.pdf">ทำเนียบส่วนราชการ (.pdf)</a></li><li class="item-707"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-06-09-07-31-03/data-sukhothai-boss">ข้อมูลหัวหน้าส่วนราชการ</a></li></ul></li><li class="item-683 deeper parent"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-17-55#">การบริหารงาน</a><ul><li class="item-696"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/844-structure">โครงสร้างจังหวัด</a></li><li class="item-709"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/846-Authority">อำนาจหน้าที่</a></li><li class="item-710"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/847-law">กฎหมายที่เกี่ยวข้อง</a></li><li class="item-711 deeper parent"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-17-55#">การมอบอำนาจ</a><ul><li class="item-712"><a title="คำสั่งจังหวัด" href="http://www.sukhothai.go.th/Government/mandate14062564.pdf" onclick="window.open(this.href,&#39;targetWindow&#39;,&#39;toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes&#39;);return false;">การมอบอำนาจให้ปฏิบัติราชการแทนผู้ว่าราชการจังหวัดสุโขทัย</a></li></ul></li><li class="item-744"><a href="http://123.242.168.5/appointment/" target="_blank">วาระงานผู้บริหาร</a></li></ul></li><li class="item-722 deeper parent"><a>E-Service</a><ul><li class="item-723"><a href="https://damrongdham.moi.go.th/user/login" class=""><img class="art-menu-image" src="./ตราประจำจังหวัด_files/icon1567.jpg" alt="ร้องเรียน/งานบริการต่างๆ">ร้องเรียน/งานบริการต่างๆ</a></li><li class="item-725"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/876-e-service" class=""><img class="art-menu-image" src="./ตราประจำจังหวัด_files/icon-eservice.jpg" alt="E-Service ส่วนราชการ">E-Service ส่วนราชการ</a></li><li class="item-726"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/901-servay-oit32" class=""><img class="art-menu-image" src="./ตราประจำจังหวัด_files/icon-serway.jpg" alt="สำรวจความพึงพอใจ">สำรวจความพึงพอใจ</a></li><li class="item-728"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/904-fraud-prevention-oit30"><img class="art-menu-image" src="./ตราประจำจังหวัด_files/warning.png" alt="ร้องเรียนการทุจริตเจ้าหน้าที่">ร้องเรียนการทุจริตเจ้าหน้าที่</a></li></ul></li><li class="item-665 deeper parent"><a title="ข้อมูลการติดต่อหน่วยงาน" target="_blank">ติดต่อเรา</a><ul><li class="item-721"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/872-question-answer">ถาม-ตอบ (Q@A)</a></li><li class="item-705"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/content/article/2-uncategorised/845-contact">ช่องทางการติดต่อหน่วยงาน</a></li><li class="item-708"><a href="http://www.sukhothai.go.th/sukhothai/images/data_sukho/Tel_Sukhothai_Full.pdf">ข้อมูลการติดต่อส่วนราชการ</a></li></ul></li><li class="item-670 deeper parent"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-17-55#">เว็บไซต์</a><ul><li class="item-741"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/data-sukhothai/2020-09-15-06-57-55">ผังเว็บไซต์</a></li><li class="item-704"><a href="http://sukhothai.go.th/sukhothai/administrator">ผู้ดูแลระบบ</a></li></ul></li><li class="item-749"><a href="https://www.facebook.com/sukhothaimoi"><img class="art-menu-image" src="./ตราประจำจังหวัด_files/facebook_icon.png" alt=".">.</a></li></ul>  </div>
+</div>
+</div>
+</div>
+</div>
+<div class="cleared reset-box" style=""></div>
+<div class="art-header">
+<div class="art-header-position">
+<div class="art-nostyle">
+
+	<div id="djslider-loader159" class="djslider-loader" style="background: url(&quot;blank.gif&quot;);">
+    <div id="djslider159" class="djslider" style="opacity: 1; display: block; visibility: visible;">
+        <div id="slider-container159" class="slider-container">
+        	<ul id="slider159" style="position: relative; width: 1018px;">
+          		          			<li style="position: absolute; top: 0px; left: 0px; opacity: 0; z-index: 0;">
+            										<img src="./ตราประจำจังหวัด_files/444.jpg" alt="444.jpg">
+												
+												
+						
+					</li>
+                          			<li style="position: absolute; top: 0px; left: 0px; opacity: 0; z-index: 0;">
+            										<img src="./ตราประจำจังหวัด_files/home1.jpg" alt="home1.jpg">
+												
+												
+						
+					</li>
+                          			<li style="position: absolute; top: 0px; left: 0px; opacity: 0; z-index: 0;">
+            										<img src="./ตราประจำจังหวัด_files/home2.jpg" alt="home2.jpg">
+												
+												
+						
+					</li>
+                          			<li style="position: absolute; top: 0px; left: 0px; opacity: 0; z-index: 0;">
+            										<img src="./ตราประจำจังหวัด_files/home5.jpg" alt="home5.jpg">
+												
+												
+						
+					</li>
+                          			<li style="position: absolute; top: 0px; left: 0px; opacity: 1; z-index: 10;">
+            										<img src="./ตราประจำจังหวัด_files/home6.jpg" alt="home6.jpg">
+												
+												
+						
+					</li>
+                        	</ul>
+        </div>
+        <div id="navigation159" class="navigation-container" style="z-index: 20;">
+        	<img id="prev159" class="prev-button" src="./ตราประจำจังหวัด_files/prev.png" alt="Previous" style="opacity: 0;">
+			<img id="next159" class="next-button" src="./ตราประจำจังหวัด_files/next.png" alt="Next" style="opacity: 0;">
+			<img id="play159" class="play-button" src="./ตราประจำจังหวัด_files/play.png" alt="Play" style="opacity: 0; left: 487px; display: none;">
+			<img id="pause159" class="pause-button" src="./ตราประจำจังหวัด_files/pause.png" alt="Pause" style="opacity: 0; display: none; left: 487px;">
+        </div>
+		<div id="cust-navigation159" class="navigation-container-custom">
+							<span class="load-button "></span>
+							<span class="load-button cursorsHover "></span>
+							<span class="load-button "></span>
+							<span class="load-button "></span>
+							<span class="load-button load-button-active"></span>
+			        </div>
+    </div>
+	</div>
+	
+	<div style="clear: both"></div></div>
+    <div class="art-header-wrapper">
+        <div class="cleared reset-box"></div>
+        <div class="art-header-inner">
+<div class="art-logo">
+ <h1 class="art-logo-name"><a href="http://www.sukhothai.go.th/sukhothai/"></a></h1>
+ <h2 class="art-logo-text"></h2>
+</div>
+
+        </div>
+    </div>
+</div>
+
+
+</div>
+<div class="cleared reset-box" style=""></div>
+<div class="art-box art-sheet">
+    <div class="art-box-body art-sheet-body">
+
+<div class="art-layout-wrapper">
+    <div class="art-content-layout">
+        <div class="art-content-layout-row">
+<div class="art-layout-cell art-content" style="height: auto;">
+
+<div class="item-page"><div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner">
+<h2 class="art-postheader"><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-17-55" class="PostHeader">ตราประจำจังหวัดสุโขทัย</a></h2>
+<div class="art-postmetadataheader">
+<div class="art-postheadericons art-metadata-icons">
+<span class="art-postdateicon">เผยแพร่เมื่อ วันเสาร์, ๐๘ สิงหาคม ๒๕๖๓ ๑๖:๐๕</span> | <span class="art-postauthoricon">เขียนโดย <a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/contact/contact/">Super User</a></span> | <a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-17-55?tmpl=component&amp;print=1&amp;page=" title="พิมพ์" onclick="window.open(this.href,&#39;win2&#39;,&#39;status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no&#39;); return false;" rel="nofollow"><img src="./ตราประจำจังหวัด_files/printButton.png" alt="พิมพ์"></a> | <a href="http://www.sukhothai.go.th/sukhothai/index.php/th/component/mailto/?tmpl=component&amp;template=sukhothai22&amp;link=2b2ef59f537071618e5140a42a03a80184c990ae" title="อีเมล" onclick="window.open(this.href,&#39;win2&#39;,&#39;width=400,height=350,menubar=yes,resizable=yes&#39;); return false;"><img src="./ตราประจำจังหวัด_files/emailButton.png" alt="อีเมล"></a> | ฮิต: 1093
+</div>
+</div>
+<div class="art-postcontent">
+<div class="art-article"><table border="0">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2"><img src="./ตราประจำจังหวัด_files/data-2.jpg" border="0" width="950" height="395"></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p> </div>
+</div>
+<div class="cleared"></div>
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+</div>
+  <div class="cleared"></div>
+</div>
+
+        </div>
+    </div>
+</div>
+<div class="cleared"></div>
+
+
+<p>  </p>
+<p>&nbsp; </p>
+<div class="cleared"></div>
+    </div>
+</div>
+<div class="art-footer">
+    <div class="art-footer-body">
+        <div class="art-footer-center">
+            <div class="art-footer-wrapper">
+                <div class="art-footer-text">
+                
+                <div>
+                <table width="200" height="250" border="0">
+  <tbody><tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>               
+               
+                </div>
+                                                            <p><a href="http://www.sukhothai.go.th/sukhothai/index.php/th/2020-08-08-15-51-33/2020-08-08-16-17-55#">Home</a></p>
+<hr>
+<div class="cleared"></div>
+<p class="art-page-footer"> 
+
+
+จัดทำโดย กลุ่มงานยุทธศาสตณ์และข้อมูลเพื่อการพัฒนาจังหวัดสุโขทัย <br>
+ศาลากลางจังหวัดสุโขทัย ถนนนิกรเกษม ตำบลธานี อำเภอเมือง จังหวัดสุโขทัย 64000<br>
+โทรศัพท์ 0-5561-1619 โทรสาร 0-5561-1619 :E-Mail <a href="http://www.sukhothai.go.th/sukhothai/Sukhothai%20@moi.go.th" target="_blank">Sukhothai@moi.go.th</a>
+</p>
+
+                                                        </div>
+            </div>
+        </div>
+        <div class="cleared"></div>
+    </div>
+</div>
+
+    <div class="cleared"></div>
+</div>
+</div>
+
+  
+
+
+
+
+
+
+</div></body></html>
